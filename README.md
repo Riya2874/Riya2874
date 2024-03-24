@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Riya2874
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in embedded systems
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on embedded systems projects.
 - 📫 How to reach me linkedin https://www.linkedin.com/in/riya-singh-569bba279
 
 <!---
